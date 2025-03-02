@@ -1,0 +1,1 @@
+2|http://yourdomain.com/app.apk
